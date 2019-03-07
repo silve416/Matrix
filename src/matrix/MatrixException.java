@@ -4,7 +4,7 @@ package matrix;
  * A class for handling matrix exceptions, including row or column indices
  * that are out of bounds, attempting to add or multiply matrices of incorrect 
  * dimensions, and other situations.
- * @author Your name and section here
+ * @author Maxwell Silver
  */
 public class MatrixException extends RuntimeException {
     

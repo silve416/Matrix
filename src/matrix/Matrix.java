@@ -3,7 +3,7 @@ package matrix;
 /**
  * This interface describes an API for working with two-dimensional
  * matrices of integers.
- * @author Your name and section here
+ * @author Maxwell 
  */
 public interface Matrix {
 
